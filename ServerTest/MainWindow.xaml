@@ -22,7 +22,7 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <Label Grid.Column="0" Content="Server Maneger"/>
+            <Label Grid.Column="0" Content="Server Maneger" FontSize="18" FontWeight="Bold"/>
             <Button Grid.Column="1" Content="Activate Server" Background="Green"/>
             <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
                 <Label Content="Number of active connections: "/>
